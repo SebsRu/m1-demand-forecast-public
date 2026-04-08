@@ -2,7 +2,7 @@
 
 **Part of the Supply Chain AI Suite** | By Sebastián Rueda, Supply Chain AI Orchestrator
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://m1-demand-forecast-public.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://m1-demand-forecast-public-fyjvowtsbgsa6yfovy82xk.streamlit.app)
 
 ---
 
@@ -35,7 +35,7 @@ This tool answers all three in **seconds** by running a tournament between multi
 
 ## 🚀 Live Demo
 
-### **👉 [Launch the App](https://m1-demand-forecast-public.streamlit.app)**
+### **👉 [Launch the App](https://m1-demand-forecast-public-fyjvowtsbgsa6yfovy82xk.streamlit.app)**
 
 Try it now with **demo supply chain data** (synthetic demand history) or **upload your own CSV**.
 
@@ -138,7 +138,7 @@ If no file is uploaded, the app runs with **synthetic supply chain data** (histo
 
 | Module | Tool | Status | Link |
 |--------|------|--------|------|
-| **M1** | **Demand Planning — AI Forecast Comparator** | ✅ **LIVE** | [Demo](https://m1-demand-forecast-public.streamlit.app) |
+| **M1** | **Demand Planning — AI Forecast Comparator** | ✅ **LIVE** | [Demo](https://m1-demand-forecast-public-fyjvowtsbgsa6yfovy82xk.streamlit.app) |
 | **M2** | Inventory Diagnosis & Coverage Analyzer | ✅ Live | [Demo](https://m2-inventory-diagnosis-public-emthenygqlck7srnw4dejt.streamlit.app) |
 | **M3** | Replenishment Coach — Safety Stock Calculator | 🔄 In Dev | — |
 | **M4** | Procurement — OTIF Risk Tracker | 🔄 In Dev | — |
@@ -199,4 +199,4 @@ Code available under **NDA** for commercial use. Contact for licensing.
 
 ---
 
-**Ready to optimize your demand forecasting?** 👉 [Launch the App](https://m1-demand-forecast-public.streamlit.app)
+**Ready to optimize your demand forecasting?** 👉 [Launch the App](https://m1-demand-forecast-public-fyjvowtsbgsa6yfovy82xk.streamlit.app)
