@@ -1,3 +1,10 @@
+# ============================================================
+# © 2026 Sebastián Rueda — Supply Chain AI Orchestrator
+# All rights reserved. Unauthorized copying, modification,
+# redistribution or commercial use of this code is prohibited.
+# Contact: sebastiaan.r@gmail.com | github.com/SebsRu
+# ============================================================
+
 import streamlit as st
 import pandas as pd
 import numpy as np
